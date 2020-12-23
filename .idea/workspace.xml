@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85adb5d1-7fd7-4b67-a6f3-6e01ccdb3541" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="15" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m0ded5myfrZaMpbxgRreGLtyd4" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/org/KMP/Master/OOPTreeLib/1.0-SNAPSHOT/OOPTreeLib-1.0-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15429688" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn  mvn compiler:compile  " />
+      <command value="mvn  compiler:compile  " />
+      <command value="mvn clean" />
+      <command value="mvn clean compile " />
+      <command value="mvn compiler:compile" />
+      <command value="mvn org.apache.maven.plugins:maven-compiler-plugin:compile" />
+      <command value="mvn org.apache.maven.plugins:maven-compiler-plugin:2.0.2:compile" />
+      <command value="mvn clean compile exec:java -Dexec.mainClass=&quot;com.Application&quot;" />
+      <command value="mvn clean compile exec:java -Dexec.mainClass=&quot;com.company&quot;" />
+      <command value="mvn install" />
+      <command value="mvn exec:java -Dexec.mainClass=&quot;com.company.Main&quot;" />
+      <command value="mvn exec:java -Dexec.mainClass=com.company.Main" />
+      <command value="mvn deploy:deploy-file" />
+      <command value="mvn version" />
+      <command value="mvn -version" />
+      <command value="mvn install:install-file \     -Dfile=&lt;C:\Users\Admin\.m2\repository\org\KMP\Master\OOPTreeLib\1.0-SNAPSHOT&gt; \     -DgroupId=&lt;org.KMP.Master&gt; \     -DartifactId=&lt;OOPTreeLib&gt; \     -Dversion=&lt;1.0-SNAPSHOT&gt; \     -Dpackaging=&lt;jar&gt; \     -DgeneratePom=true" />
+      <command value="mvn install:install-file \     -Dfile=&lt;C:\Users\Admin\.m2\repository&gt; \     -DgroupId=&lt;org.KMP.Master&gt; \     -DartifactId=&lt;OOPTreeLib&gt; \     -Dversion=&lt;1.0-SNAPSHOT&gt; \     -Dpackaging=&lt;jar&gt; \     -DgeneratePom=true" />
+      <command value="mvn -Xlint" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="OOPTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPTree []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Maven.OOPTree []" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85adb5d1-7fd7-4b67-a6f3-6e01ccdb3541" name="Default Changelist" comment="" />
+      <created>1608634538563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608634538563</updated>
+    </task>
+    <servers />
+  </component>
+</project>
